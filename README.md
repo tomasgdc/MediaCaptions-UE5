@@ -1,4 +1,4 @@
-# MediaCaptions
+# MediaCaptions plugin for UE5
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/10357361/166431399-26c53b33-1732-43e8-bca9-79a291788270.gif)
 
 # How to build project on Mac
